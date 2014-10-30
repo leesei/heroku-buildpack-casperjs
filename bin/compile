@@ -8,7 +8,7 @@ BUILD_DIR=$1
 CACHE_DIR=$2
 
 # config
-VERSION="1.9.7"
+VERSION="1.9.2"
 CASPER_VERSION="master"
 
 # Buildpack URL
